@@ -38,8 +38,8 @@ const App = () => {
       <Download />
 
       <div className='px-4 py-2 justify-center items-center bg-primary flex-col text-center banner04'>
-        <p className={`${styles.pText} ${styles.whiteText}`}>Designed by {' '}
-        <span className='bold'>Samynaj</span>
+        <p className={`${styles.pText} ${styles.whiteText}`}>{' '}
+        {/* <span className='bold'>S</span> */}
         </p>
       </div>
     </>
